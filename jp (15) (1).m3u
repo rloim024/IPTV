@@ -1,0 +1,477 @@
+#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
+
+#MAIN DTV1 (720p)
+
+#EXTINF:-1 tvg-id="nhkg_tokyo" group-title="DTV1 (720P)",NHK総合 東京 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="nhke_tokyo" group-title="DTV1 (720P)",NHK教育 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="ntv" group-title="DTV1 (720P)",日本テレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="tbs" group-title="DTV1 (720P)",TBSテレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="fuji_tv" group-title="DTV1 (720P)",フジテレビ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="tv_asahi" group-title="DTV1 (720P)",テレビ朝日 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="tv_tokyo"  group-title="DTV1 (720P)",テレビ東京 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#DTV2 (vthanhtivi)
+
+#EXTINF:-1 tvg-id="nhkg_tokyo" group-title="DTV2 (vthanhtivi)",NHK総合 東京 (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="nhke_tokyo"  group-title="DTV2 (vthanhtivi)",NHK教育 (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" group-title="DTV2 (vthanhtivi)",日本テレビ (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="tbs"  group-title="DTV2 (vthanhtivi)",TBSテレビ (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="fuji_tv"  group-title="DTV2 (vthanhtivi)",フジテレビ (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_asahi"  group-title="DTV2 (vthanhtivi)",テレビ朝日 (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+
+#EXTINF:-1 tvg-id="tv_tokyo"  group-title="DTV2 (vthanhtivi)",テレビ東京 (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tokyo_mx1", TOKYO MX1 (vthanhtivi)
+https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tvk", テレビ神奈川 (vthanhtivi)
+http://pipe.ra1n.lol/tvk/index.m3u8
+
+#EXTINF:-1 group-title="DTV2 (vthanhtivi)" tvg-id="tss", テレビ新広島 (vthanhtivi)
+http://pipe.ra1n.lol/tss/index.m3u8
+
+#DTV3 (primehome)
+
+#EXTINF:-1 tvg-id="nhkg_tokyo"  group-title="DTV3 (primehome)",NHK総合 東京 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="nhke_tokyo"  group-title="DTV3 (primehome)",NHK教育 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="ntv" group-title="DTV3 (primehome)",日本テレビ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="tbs"  group-title="DTV3 (primehome)",TBSテレビ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="fuji_tv"  group-title="DTV3 (primehome)",フジテレビ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="tv_asahi"  group-title="DTV3 (primehome)",テレビ朝日 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="tv_tokyo"  group-title="DTV3 (primehome)",テレビ東京 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="tokyo_mx1" , TOKYO MX1 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="mhkg_osaka" , NHK総合 大阪  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="mbs" , MBS毎日放送 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="abc" , ABC朝日放送 (primehome)  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="kansai_tv" , カンテレ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="ytv" , 読売テレビ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="tv_osaka" , テレビ大阪 (primehome)  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="DTV3 (primehome)" tvg-id="sun_tv" , サンテレビ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
+
+#BS1 (720p)
+
+#EXTINF:-1 tvg-id="nhk_bs"  group-title="BS1 (720P)",NHK BS (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="nhk_bsp4k"  group-title="BS1 (720P)",NHK BSP4K (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_ntv"  group-title="BS1 (720P)",BS日テレ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_asahi"  group-title="BS1 (720P)",BS朝日 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_tbs"  group-title="BS1 (720P)",BS-TBS (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_tvtokyo"  group-title="BS1 (720P)",BSテレ東 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_fuji" group-title="BS1 (720P)",BSフジ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="wowow_prime"  group-title="BS1 (720P)",WOWOWプライム (720p Willfon) 
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="wowow_live"  group-title="BS1 (720P)",WOWOWライブ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="wowow_cinema"  group-title="BS1 (720P)",WOWOWシネマ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="star_ch1"  group-title="BS1 (720P)",スターチャンネル1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="star_ch2"  group-title="BS1 (720P)",スターチャンネル2 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="star_ch3"  group-title="BS1 (720P)",スターチャンネル3 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="bs_animax"  group-title="BS1 (720P)",BSアニマックス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="tsuri_vision"  group-title="BS1 (720P)",釣りビジョン (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="mnet"  group-title="BS1 (720P)",Mnet (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="js1"  group-title="BS1 (720P)",JSPORTS 1 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="js2"  group-title="BS1 (720P)",JSPORTS 2 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="js3"  group-title="BS1 (720P)",JSPORTS 3 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="js4"  group-title="BS1 (720P)",JSPORTS 4 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="nihon_eiga"  group-title="BS1 (720P)",日本映画専門チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#BS2 (primehome)
+
+#EXTINF:-1 tvg-id="nhk_bs"  group-title="BS2 (primehome)",NHK BS (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="nhk_bsp4k"  group-title="BS2 (primehome)",NHK BSP4K (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_ntv"  group-title="BS2 (primehome)",BS日テレ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_asahi"  group-title="BS2 (primehome)",BS朝日 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_tbs"  group-title="BS2 (primehome)",BS-TBS (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_tvtokyo"  group-title="BS2 (primehome)",BSテレ東 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_fuji" group-title="BS2 (primehome)",BSフジ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="wowow_prime"  group-title="BS2 (primehome)",WOWOWプライム (primehome) 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="wowow_live"  group-title="BS2 (primehome)",WOWOWライブ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="wowow_cinema"  group-title="BS2 (primehome)",WOWOWシネマ (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="star_ch1"  group-title="BS2 (primehome)",スターチャンネル1 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="star_ch2"  group-title="BS2 (primehome)",スターチャンネル2 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="star_ch3"  group-title="BS2 (primehome)",スターチャンネル3 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bs_animax"  group-title="BS2 (primehome)",BSアニマックス (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BS2 (primehome)" tvg-id="green_ch" , グリーン チャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="tsuri_vision"  group-title="BS2 (primehome)",釣りビジョン (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="js1"  group-title="BS2 (primehome)",JSPORTS 1 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="js2"  group-title="BS2 (primehome)",JSPORTS 2 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="js3"  group-title="BS2 (primehome)",JSPORTS 3 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="js4"  group-title="BS2 (primehome)",JSPORTS 4 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="nihon_eiga"  group-title="BS2 (primehome)",日本映画専門チャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BS2 (primehome)" tvg-id="disney_channel" , ディズニーチャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="BS2 (primehome)" tvg-id="bs11" , BS11
+http://pipe.ra1n.lol/bs11/index.m3u8
+
+#EXTINF:-1 group-title="BS2 (primehome)" tvg-id="" , BS松竹東急 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=10&bind=0&uin=159413&playseek=0
+
+
+#CS1 (720p)
+
+#EXTINF:-1 tvg-id="axn"  group-title="CS1 (720p)",アクションチャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="dlife"  group-title="CS1 (720p)",Dlife (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="channel_ginga"  group-title="CS1 (720p)",チャンネル銀河 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="family_geki"  group-title="CS1 (720p)",ファミリー劇場 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="gaora"  group-title="CS1 (720p)",GAORA (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="golf_network"  group-title="CS1 (720p)",ゴルフネットワーク (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="kayo_pops"  group-title="CS1 (720p)",歌謡ポップスチャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="kids_station"  group-title="CS1 (720p)",キッズステーション (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="home_drama"  group-title="CS1 (720p)",ホームドラマチャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="lalatv"  group-title="CS1 (720p)",LaLaTV (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="gtasu"  group-title="CS1 (720p)",日テレジータス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="neco"  group-title="CS1 (720p)",チャンネルNECO (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="movie_plus"  group-title="CS1 (720p)",ムービープラス (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="music_on"  group-title="CS1 (720p)",Music ON TV! (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="toei_channel" group-title="CS1 (720p)",東映チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="jidaigeki"  group-title="CS1 (720p)",時代劇専門チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="igo_shogi"  group-title="CS1 (720p)",囲碁・将棋チャンネル (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="super_drama"  group-title="CS1 (720p)",スーパー!ドラマTV (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="sky_a"  group-title="CS1 (720p)",スカイA (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#CS2 (vthanhtivi)
+
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x" AT-X 1
+https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x"  AT-X 2
+http://pipe.ra1n.lol/at-x/index.m3u8
+
+#EXTINF:-1 group-title="CS2 (vthanhtivi)" tvg-id="at-x"  AT-X 3
+https://neetball.net/live/neet3.m3u8
+
+#CS2 (unknown)
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x"  ,AT-X 1
+https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x" ,AT-X 2
+https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x" , AT-X 3
+https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x"  ,AT-X 4
+https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x" , AT-X 5
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x" , AT-X 6
+https://list.iptvcat.com/my_list/s/701eca05f81082b789be1cbc0306632f.m3u8
+
+#EXTINF:-1 group-title="CS2 (unknown)" tvg-id="at-x" , AT-X 7
+https://iptv-web.app/JP/ATX.jp/
+
+#CS3 (primehome)
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="" , 旅チャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id=" , Music JapanTV  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="home_drama" , ホームドラマチャンネル  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="toei_channel" , 東映チャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="eigeki" , 衛星劇場 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="movie_plus" , ムービープラス (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="sky_a" , スカイA (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="gaora" , GAORA SPORTS (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="gtasu" , 日テレジータス (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="golf_network" , ゴルフネットワーク (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="skystage" , 宝塚歌劇専門チャンネル  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="jidaigeki" ,時代劇専門チャンネル  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="family_geki" , ファミリー劇場 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="channel_ginga"  group-title="CS3 (primehome)",チャンネル銀河 (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="kayo_pops"  group-title="CS3 (primehome)",歌謡ポップスチャンネル (vthanhtivi)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="mondo_tv" , MONDO TV (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="fujitv_next" , フジテレビNEXT  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="lalatv" , LaLaTV (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="mtv" , MTV Japan  (primehome)    
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="space_shower" , スペースシャワーTV (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=10&bind=0&uin=159413&playseek=
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="kids_station" , キッズステーション  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="cartoon_network"  group-title="CS3 (primehome)",Cartoon Network (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="disney_junior" , ディズニージュニア  (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="history" , ヒストリーチャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="discovery" , ディスカバリーチャンネル (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="natgeo" , ナショナル ジオグラフィック (primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="CS3 (primehome)" tvg-id="sportlive_plus" , Sport Live Plus
+http://pipe.ra1n.lol/sportliveplus/index.m3u8
+#NEWS
+
+#EXTINF:-1 tvg-id="cnnj"  group-title="NEWS",CNN J
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="bbc_news"  group-title="NEWS",BBC NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 tvg-id="ntv_news24"  group-title="NEWS",日テレNEWS24 (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="ntv_news24"  group-title="NEWS",日テレNEWS24 (Official1)
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv_news24"  group-title="NEWS",日テレNEWS24 (Official2)
+https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , 日テレNEWS (youtube live)
+https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="tbs_news" , TBSニュース
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , TBS NEWS DIG (youtube live)
+https://ythls-v2.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , 朝日新聞 NEWS (youtube live)
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-id="" , HBC北海道放送 NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8?playlist=index
+
+#EXTINF:-1 group-title="NEWS" tvg-id="" , HTB北海道テレビ NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8?playlist=index
+
+#EXTINF:-1 tvg-id=""  group-title="NEWS",STV札幌テレビ放送 NEWS  (youtube live)
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="NEWS",テレビ静岡 NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8?playlist=index
+
+#EXTINF:-1 tvg-id="" group-title="NEWS",SATV静岡朝日テレビ NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8?playlist=index
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , メ～テレ名古屋テレビ NEWS (youtubelive)
+https://ythls-v2.onrender.com/video/-C6FE2m7kX8.m3u8?playlist=index
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , ABC朝日放送テレビ NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCPW-5qfYGNR8XYrvESrqJKA.m3u8?playlist=index
+
+#EXTINF:-1 group-title="NEWS" tvg-language="" , KBC九州朝日放送 NEWS (youtube live)
+https://ythls-v2.onrender.com/channel/UCS8ZQejq2CL-nZcnRWZCA5Q.m3u8?playlist=index
+
+#EXTINF:-1 tvg-id=""  group-title="NEWS",TOSテレビ大分 NEWS (youtube live)
+https://ythls-v2.onrender.com/video/TwuXl6m0EHI.m3u8?playlist=index
+
+#EXTINF:-1  group-title="NEWS",ウェザーニュース
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
